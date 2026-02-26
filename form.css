@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
+
+.form-container {
+  display: flex;
+
+  min-height: 100vh;
+}
+
+
+.registration-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  padding: 0;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #4a90e2;
+  
+}
